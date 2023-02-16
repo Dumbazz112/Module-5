@@ -10,12 +10,12 @@ if __name__ == "__main__":
     #     print(vowels[i])
     
     #FOR LOOP
-    for letter in vowels:
-        print(letter)
+    # for letter in vowels:
+    #     print(letter)
         
     #RANGE
-    for i in range(10, 21, 2):
-        print(i)
+    # for i in range(10, 21, 2):
+    #     print(i)
         
     #NESTING
     for i in range(5):

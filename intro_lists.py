@@ -67,11 +67,11 @@ if __name__ == "__main__":
     my_pokemon = pokemon.split(',')
     print(my_pokemon)
     
-    pokedex = my_pokemon[:]
-    print(pokedex)
-    print(my_pokemon)
+    # pokedex = my_pokemon[:]
+    # print(pokedex)
+    # print(my_pokemon)
     
-    pokedex.append('mew')
+    # pokedex.append('mew')
     
-    print(pokedex)
-    print(my_pokemon)
+    # print(pokedex)
+    # print(my_pokemon)

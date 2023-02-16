@@ -13,7 +13,7 @@ if __name__ == "__main__":
     
     hello = 'Hello There'
     my_tuple = tuple(hello)
-    print(my_tuple)
+    # print(my_tuple)
     
     # query = 6
     # print("(query)" in my_tuple)
